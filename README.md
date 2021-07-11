@@ -4,10 +4,10 @@ A simple intrusion detection program written in C. It uses packet sniffing to an
 ## Output!
 <img src="https://raw.githubusercontent.com/cooltheo17/IntrusionDetection/main/images/image_1.png" align="center"
 width="935" height="589">
-<br>
+##
 <img src="https://raw.githubusercontent.com/cooltheo17/IntrusionDetection/main/images/image_2.png" align="center"
 width="910" height="242">
-<br>
+##
 <img src="https://raw.githubusercontent.com/cooltheo17/IntrusionDetection/main/images/image_3.png"
 width="910" height="204">
 
